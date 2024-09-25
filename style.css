@@ -29,4 +29,7 @@ th, td {
     text-align: left;
 }
 
-/* Student B zal hier extra stijlen toevoegen voor de ongeordende lijst */
+table {
+    border: 1px solid black;
+    background-color: #00fcf42e;
+}
