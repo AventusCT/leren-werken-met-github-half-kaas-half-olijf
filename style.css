@@ -8,6 +8,25 @@ body {
     background-color: #f4f4f4;
 }
 
+header{
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav{
+    display: flex;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: grey;
+}
+
 h1 {
     color: #333;
     text-align: center;
